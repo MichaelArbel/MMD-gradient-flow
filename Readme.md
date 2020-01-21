@@ -2,12 +2,12 @@
 
 * [Introduction](#introduction)
 * [Requirements](#requirements)
-* [How to use](#example-use-cases)
+* [How to use](#how-to-use)
    * [Student Teacher network](#student-teacher-network)
 * [Resources](#resources)
    * [Hardware](#hardware)
 * [Full documentation](#full-documentation)
-* [References](#references)
+* [Reference](#reference)
 * [License](#license)
 
 ## Introduction
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python train_student_teacher.py --device=-1 
 ```
 
-## Ressources
+## Resources
 
 ### Hardware
 

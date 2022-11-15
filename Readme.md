@@ -107,7 +107,7 @@ To use CPU set —device=-2
 
 If using this code for research purposes, please cite:
 
-[1] M. Arbel, A. Korba, A. Salim, A. Gretton [*Kernelized Wasserstein Natural Gradient*](https://arxiv.org/abs/1906.04370)
+[1] M. Arbel, A. Korba, A. Salim, A. Gretton [*Maximum Mean Discrepancy Gradient Flow*](https://arxiv.org/abs/1906.04370)
 
 ```
 @article{Arbel:2018,
